@@ -1,0 +1,16 @@
+2019-11-12 14:12:35,801:INFO: Creating the dataset...
+2019-11-12 14:12:36,223:INFO: - done.
+2019-11-12 14:12:36,225:INFO: Starting evaluation
+2019-11-12 14:12:36,241:INFO: - Eval metrics : accuracy: 0.743 ; loss: 1.886
+2019-11-12 17:09:09,041:INFO: Creating the dataset...
+2019-11-12 17:09:09,044:INFO: - done.
+2019-11-12 17:09:09,046:INFO: Starting evaluation
+2019-11-12 17:09:09,215:INFO: - Eval metrics : accuracy: 0.994 ; loss: 0.035
+2019-11-12 17:18:04,298:INFO: Creating the dataset...
+2019-11-12 17:18:04,324:INFO: - done.
+2019-11-12 17:18:04,326:INFO: Starting evaluation
+2019-11-12 17:18:06,388:INFO: - Eval metrics : accuracy: 1.000 ; loss: 0.001
+2019-12-13 18:03:08,077:INFO: Creating the dataset...
+2019-12-13 18:03:08,172:INFO: - done.
+2019-12-13 18:03:08,174:INFO: Starting evaluation
+2019-12-13 18:03:14,939:INFO: - Eval metrics : accuracy: 0.906 ; loss: 0.214
